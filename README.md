@@ -31,7 +31,8 @@ Provides 156 signal connections via U.FL connectors, plus SMA and clamp probing 
 | Schematics | `/Drawings/T0017_HPC_UFL_DEBUG_BOARD_SCHEMATICS_2024_12_13_REV_A.pdf` |
 | PCB Layers | `/Drawings/T0017_HPC_UFL_DEBUG_BOARD_LAYERS_2024_12_13_REV_A.pdf` |
 | Mechanical Drawings | `/Drawings/T0017_HPC_UFL_DEBUG_BOARD_MECHANICAL_2024_12_13_REV_A.pdf` |
-| Bill of Materials | `/BOM.csv` |
+| Bill of Materials | `/FMC_HPC_UFL_DEBUG_BOM.csv` |
+| Buy online | [IAM Electronic Webshop](https://www.iamelectronic.com/shop) |
 
 ---
 
